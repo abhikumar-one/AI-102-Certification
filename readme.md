@@ -1,3 +1,3 @@
-## AI-102 Azure AI Engineer Associate Exam - Ultimate Prep by MSingh
+## AI-103 - Azure AI Apps and Agents Developer Associate
 ---
 ![course_thumbnail](./Assets/Ai-103-course.png)
